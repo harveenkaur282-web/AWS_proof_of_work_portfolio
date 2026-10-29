@@ -1,6 +1,6 @@
 # AWS Proof-of-Work Portfolio
 
-A curated, evidence-led portfolio of hands-on work with **AWS infrastructure, serverless systems, and agentic AI**, built alongside my core AI/ML and software engineering projects as I prepare for **AWS Cloud and Cloud-AI internships**.
+A curated, evidence-led portfolio of hands-on work with **AWS infrastructure, serverless systems, and agentic AI**, built alongside my core AI/ML and software engineering projects as I prepare for **AWS internships**.
 
 > Completed implementations, work in progress, and training/workshop material are labelled separately. Follow each repository for code, architecture, setup notes, screenshots, and evaluation evidence.
 
