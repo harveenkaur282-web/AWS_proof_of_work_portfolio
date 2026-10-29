@@ -43,7 +43,7 @@ A terminal-based conversational AI chatbot built with Python, Boto3, and the Bed
 
 **AWS concepts:** Amazon Bedrock Runtime, Amazon Nova 2 Lite, Converse API, Bedrock Guardrails, CloudShell, Boto3 SDK, prompt engineering.
 
-## In Progress — Cloud AI
+## In Progress 
 
 ### Multi-Agent E-commerce RAG on AWS
 **Repository:** [Multi-Agent-Ecommerce-RAG](https://github.com/harveenkaur282-web/Multi-Agent-Ecommerce-RAG) · **Status: In progress**
