@@ -34,7 +34,14 @@ A Python serverless workflow that processes text with Amazon Polly through Lambd
 
 A hands-on web-app setup documented in the Projects section of this portfolio repository, covering practical EC2 deployment and configuration. See the repository's step-by-step guide for implementation details.
 
-**AWS concepts:** Amazon EC2, instance setup, web application deployment and server configuration.
+
+
+### 5. Multi-Turn AI Chatbot with Amazon Bedrock, Nova 2 Lite & Guardrails
+**Documentation & Code:** [Bedrock Multi-Turn Chatbot](PROJECTS/Bedrock_MultiTurn_Chatbot_Guardrails) · [Project Report (PDF)](PROJECTS/Bedrock_MultiTurn_Chatbot_Guardrails/Build_an_AI_Chatbot_with_Amazon_Bedrock.pdf)
+
+A terminal-based conversational AI chatbot built with Python, Boto3, and the Bedrock Converse API in AWS CloudShell. Features multi-turn conversational context, customizable tutor personality via system prompts, inference parameter tuning (`temperature`, `top_p`, `max_tokens`), and Responsible AI content safety enforcement using Bedrock Guardrails.
+
+**AWS concepts:** Amazon Bedrock Runtime, Amazon Nova 2 Lite, Converse API, Bedrock Guardrails, CloudShell, Boto3 SDK, prompt engineering.
 
 ## In Progress — Cloud AI
 
